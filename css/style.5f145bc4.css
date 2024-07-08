@@ -396,7 +396,8 @@ template {
   pointer-events: none;
 }
 .disk-page {
-  width: 95vw;
+  max-width: 95vw;
+  min-width: 850px;
   margin-bottom: 100px;
 }
 .disk-page .row-select {
@@ -641,4 +642,4 @@ body {
 }
 
 
-/*# sourceMappingURL=style.f04f1438.css.map*/
+/*# sourceMappingURL=style.5f145bc4.css.map*/
