@@ -13,4 +13,7 @@ KK唱片(110)
 农作物(31)
 花卉(119)
 
+
+![app](https://github.com/user-attachments/assets/9997e129-dc28-4aff-a0b8-f95c993803b1)
+
 https://zystudios.gitHub.io/Animal-Crossing-App
