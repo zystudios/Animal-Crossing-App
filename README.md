@@ -20,6 +20,7 @@ KK唱片(110)
 点击物品图片有详细信息展示
 
 
-![app](https://github.com/user-attachments/assets/9997e129-dc28-4aff-a0b8-f95c993803b1)
+![image](https://github.com/user-attachments/assets/f173283b-5c79-4c38-96c1-8497fa79e37d)
+
 
 https://zystudios.gitHub.io/Animal-Crossing-App
