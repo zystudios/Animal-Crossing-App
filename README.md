@@ -17,6 +17,8 @@ KK唱片(110)
 
 数据来自动森wiki，自己看了下应该是最全的了，包括动森2.0版本新增的物品也都有了
 
+点击物品图片有详细信息展示
+
 
 ![app](https://github.com/user-attachments/assets/9997e129-dc28-4aff-a0b8-f95c993803b1)
 
